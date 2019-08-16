@@ -4,5 +4,5 @@ Using Python Flask to create API for precipitation, station data, temperature ob
 
 ### Build
 
-- Database using
+- Database using sqlite
 - App is built in Python using packages numpy, pandas, sqlalchemy, flask, json
