@@ -1,6 +1,6 @@
 ## Precipitation-API
 
-Using Python Flask to create searcheable API for precipitation amounts between certain dates.
+Using Python Flask to create API for precipitation, station data, temperature observation data, and searcheable precipitations amounts between certain dates or on single date.
 
 ### Build
 
